@@ -1,7 +1,7 @@
 # 2.Documento de Metodología de Desarrollo
 
 ## 2.1. Enfoque Seleccionado: Metodología Híbrida
-Para el desarrollo del *Sistema de Gestión para Mercados Municipales*, el equipo técnico ha determinado la adopción de un Enfoque Híbrido. Este enfoque combina la predictibilidad y el control del modelo Tradicional (Cascada) con la flexibilidad operativa de los marcos Ágiles (Scrum).
+Para el desarrollo del Sistema de Gestión para Mercados Municipales, el equipo técnico ha determinado la adopción de un Enfoque Híbrido. Este enfoque combina la predictibilidad y el control del modelo Tradicional (Cascada) con la flexibilidad operativa de los marcos Ágiles (Scrum).
 
 
 ## 2.2. Justificación del Enfoque Híbrido

@@ -22,7 +22,7 @@ Este proyecto se justifica en la necesidad urgente de digitalizar estos flujos p
     4. Generar reportes e informes mensuales consolidados con envío directo a la Dirección de Ingresos.
 
 ## 1.4. Alcance Inicial del Proyecto
-El alcance inicial contempla exclusivamente la cobertura de dos mercados dentro del municipio:
+El alcance inicial contempla exclusivamente la cobertura de tres mercados dentro del municipio:
 1.  **Mercado Campesino**
 2.  **Mercado Central**
 

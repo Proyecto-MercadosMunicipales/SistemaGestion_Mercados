@@ -8,7 +8,7 @@
 
 
 ## 3.2. Descripción del Problema u Oportunidad
-La administración actual de los mercados municipales (Campesino y Central) presenta graves problemas de centralización, pérdida de información y falta de transparencia operativa. Los registros de comerciantes y la asignación de puestos se gestionan mediante libros físicos propensos al deterioro. 
+La administración actual de los mercados municipales (Campesino, Central, Entre Rios) presenta graves problemas de centralización, pérdida de información y falta de transparencia operativa. Los registros de comerciantes y la asignación de puestos se gestionan mediante libros físicos propensos al deterioro. 
 
 Asimismo, la recaudación de tarifas diarias y el control de licencias sanitarias carecen de auditoría en tiempo real, lo que genera fugas económicas potenciales y dificulta la fiscalización por parte de la Dirección de Ingresos. Se identifica la oportunidad de modernizar la gestión pública mediante un sistema web a medida.
 
