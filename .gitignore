@@ -1,0 +1,9 @@
+# Archivos temporales de Word
+~$*.docx
+~$*.doc
+
+# Archivos temporales genéricos
+*.tmp
+
+# Otros temporales de Office (opcional)
+~*.*

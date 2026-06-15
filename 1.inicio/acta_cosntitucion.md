@@ -25,6 +25,7 @@ Este proyecto se justifica en la necesidad urgente de digitalizar estos flujos p
 El alcance inicial contempla exclusivamente la cobertura de tres mercados dentro del municipio:
 1.  **Mercado Campesino**
 2.  **Mercado Central**
+3.  **Mercado Entre Rios**
 
 ### Módulos del MVP Incluidos:
 *   **Módulo de Registro:** Censo digital de comerciantes, datos personales, estado legal y asignación física de puestos por sectores.
