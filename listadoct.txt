@@ -1,0 +1,22 @@
+1.	Acta de Constitución (ej. Al finalizar el presente documento)
+2.	Documento de Metodología (Tradicional o Ágil)
+3.	Solicitud de Proyecto
+4.	Especificación de Requerimientos
+5.	Documento de Inception
+6.	Matriz de Priorización
+7.	Cronograma
+8.	Presupuesto (70000bs)
+9.	Plan de Recursos (Como se dividirían)
+10.	Registro de Riesgos
+11.	Informes de Avance
+12.	Tablero de Seguimiento KPI
+13.	Registro de Incidencias
+14.	Plan de Mejora Continua
+15.	Solicitud de Cambios
+16.	Registro de Riesgos Actualizado
+17.	Acta de Cierre
+18.	Lecciones Aprendidas
+19.	Informe de Validación del Producto
+20.	Evaluación de las 4P
+21.	Value Stream Mapping
+22.	Plan de Escalado Organizacional
